@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\migrations\\20251225063814_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\migrations\\20251225063814_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251224185637_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front-to-back\\Migrations\\20251224185637_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251224105400_chanceproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front-to-back\\Migrations\\20251224105400_chanceproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-524x617.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-524x617.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251224102942_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front-to-back\\Migrations\\20251224102942_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\front-to-back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\front-to-back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\controllers\\singlepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\controllers\\singlepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\views\\singlepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\views\\singlepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\views\\_404\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\views\\_404\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|c:\\users\\user\\source\\tasklar\\front-to-back\\front-to-back\\controllers\\404controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B750DC15-E6CB-4BAF-B78A-9F7BB1B32EB2}|front-to-back\\front-to-back.csproj|solutionrelative:front-to-back\\controllers\\404controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "front-to-back\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "front-to-back\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-27T16:03:39.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "front-to-back\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "front-to-back\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAkwK8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T07:25:38.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "front-to-back\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T08:23:34.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "front-to-back\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Shop\\Detail.cshtml*",
+              "RelativeToolTip": "front-to-back\\Views\\Shop\\Detail.cshtml*",
+              "ViewState": "AgIAANIBAAAAAAAAAAAIwOcBAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T18:42:43.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\Slide.cs",
+              "RelativeToolTip": "front-to-back\\Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:17:15.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\Blog.cs",
+              "RelativeToolTip": "front-to-back\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:00:58.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "front-to-back\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "front-to-back\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGQDAAAAAAAAAAAAAIQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T07:29:32.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\ProductImage.cs",
+              "RelativeToolTip": "front-to-back\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T18:41:03.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "front-to-back\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T07:24:41.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\Product.cs",
+              "RelativeToolTip": "front-to-back\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:53:55.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "front-to-back\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "front-to-back\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAAAMoHAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T08:24:03.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "front-to-back\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "front-to-back\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:39:49.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\ViewModels\\DetailVM.cs",
+              "RelativeDocumentMoniker": "front-to-back\\ViewModels\\DetailVM.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\ViewModels\\DetailVM.cs",
+              "RelativeToolTip": "front-to-back\\ViewModels\\DetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:24:38.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "1-2-270x300.jpg",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg",
+              "RelativeDocumentMoniker": "front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg",
+              "RelativeToolTip": "front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-26T11:11:39.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\Category.cs",
+              "RelativeToolTip": "front-to-back\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:07:15.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251225063814_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251225063814_InitialCreate.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Migrations\\20251225063814_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251225063814_InitialCreate.cs",
+              "RelativeToolTip": "front-to-back\\Migrations\\20251225063814_InitialCreate.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T06:38:14.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\appsettings.json",
+              "RelativeDocumentMoniker": "front-to-back\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\appsettings.json",
+              "RelativeToolTip": "front-to-back\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T09:59:28.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251224185637_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251224185637_InitialCreate.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Migrations\\20251224185637_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251224185637_InitialCreate.cs",
+              "RelativeToolTip": "front-to-back\\Migrations\\20251224185637_InitialCreate.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T18:56:38.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "front-to-back\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "front-to-back\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:40:43.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "front-to-back\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "front-to-back\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T07:30:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "front-to-back\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T08:14:52.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "front-to-back\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:36:21.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251224105400_chanceproducttable.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251224105400_chanceproducttable.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Migrations\\20251224105400_chanceproducttable.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251224105400_chanceproducttable.cs",
+              "RelativeToolTip": "front-to-back\\Migrations\\20251224105400_chanceproducttable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:54:00.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Program.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Program.cs",
+              "RelativeToolTip": "front-to-back\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T07:27:08.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "1-2-524x617.png",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-524x617.png",
+              "RelativeDocumentMoniker": "front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-524x617.png",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-524x617.png",
+              "RelativeToolTip": "front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-524x617.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-24T10:33:54.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20251224102942_product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251224102942_product.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Migrations\\20251224102942_product.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Migrations\\20251224102942_product.cs",
+              "RelativeToolTip": "front-to-back\\Migrations\\20251224102942_product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:29:42.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "1-2-570x633.jpg",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg",
+              "RelativeDocumentMoniker": "front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg",
+              "RelativeToolTip": "front-to-back\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-24T10:14:47.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "front-to-back.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\front-to-back.csproj",
+              "RelativeDocumentMoniker": "front-to-back\\front-to-back.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\front-to-back.csproj",
+              "RelativeToolTip": "front-to-back\\front-to-back.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T07:40:18.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SinglePageController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\SinglePageController.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Controllers\\SinglePageController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\SinglePageController.cs",
+              "RelativeToolTip": "front-to-back\\Controllers\\SinglePageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T08:27:28.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "front-to-back\\Controllers\\WishlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T08:44:15.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\SinglePage\\Index.cshtml",
+              "RelativeDocumentMoniker": "front-to-back\\Views\\SinglePage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\SinglePage\\Index.cshtml",
+              "RelativeToolTip": "front-to-back\\Views\\SinglePage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T08:27:55.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "front-to-back\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "front-to-back\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPgBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T08:15:15.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\_404\\Index.cshtml",
+              "RelativeDocumentMoniker": "front-to-back\\Views\\_404\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\_404\\Index.cshtml",
+              "RelativeToolTip": "front-to-back\\Views\\_404\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T08:42:18.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "404Controller.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\404Controller.cs",
+              "RelativeDocumentMoniker": "front-to-back\\Controllers\\404Controller.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Controllers\\404Controller.cs",
+              "RelativeToolTip": "front-to-back\\Controllers\\404Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T08:37:06.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Wishlist\\Index.cshtml",
+              "RelativeDocumentMoniker": "front-to-back\\Views\\Wishlist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\tasklar\\front-to-back\\front-to-back\\Views\\Wishlist\\Index.cshtml",
+              "RelativeToolTip": "front-to-back\\Views\\Wishlist\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T08:44:38.533Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
