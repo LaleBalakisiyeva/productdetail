@@ -34,7 +34,7 @@ namespace front_to_back.Controllers
             }
 
 
-            List<Product> relatedProducts = _context.Products.Include(p => p.ProductImages).Include(p => p.Category).Where(p => p.CategoryId == product.CategoryId).ToList();
+            List<Product> relatedProducts =await _context.Products.Include(p => p.ProductImages).Include(p => p.Category).Where(p => p.CategoryId == product.CategoryId).ToListAsync();
             DetailVM detailVM = new DetailVM
             {
                 Product = product,
