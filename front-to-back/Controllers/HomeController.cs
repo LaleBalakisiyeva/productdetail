@@ -14,7 +14,7 @@ namespace front_to_back.Controllers
         {
             _context = context;
         }
-        public IActionResult Index()
+         public async Task<IActionResult> Index()
 
         
         {
@@ -242,9 +242,9 @@ namespace front_to_back.Controllers
 
             HomeVM homeVM = new HomeVM
             {
-                Slides = _context.Sliders.OrderBy(s => s.Order).Take(2).ToList(),
-                Products = _context.Products.Include(p=>p.ProductImages).Include(p => p.Category).ToList(),
-                Blogs = _context.Blogs.ToList()
+               Slides = await _context.Sliders.OrderBy(s => s.Order).Take(2).ToListAsync(),
+               Products =await _context.Products.Include(p=>p.ProductImages).Include(p => p.Category).ToListAsync(),
+               Blogs = await _context.Blogs.ToListAsync()
             };
             return View(homeVM);
         }
